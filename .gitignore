@@ -1,2 +1,6 @@
 .venv
 github_vizdoom_repo/
+
+# Temporary hidden folders 
+train/*
+logs/*
