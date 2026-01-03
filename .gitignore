@@ -4,6 +4,7 @@ github_vizdoom_repo/
 # Temporary hidden folders 
 train/*
 logs/*
+opt/*
 
 _vizdoom.ini
 vizdoom-crash.log
